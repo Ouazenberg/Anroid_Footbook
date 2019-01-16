@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">FootBook</string>
+    <string name="btn_envoyer">Envoyer</string>
+    <string name="text_message_hint">Votre message...</string>
+    <string name="title_activity_confirmation">Confirmation</string>
+    <string name="confirm_header">Ajouter la partie foot à cette adresse:</string>
+    <string name="btn_confirm">Confirmer</string>
+    <string name="btn_edit">Modifier</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="Stade">Stade/ Ville:</string>
+    <string name="date">Date</string>
+    <string name="heure">Heure</string>
+    <string name="address">Adresse du Stade</string>
+    <string name="tv_from">Stade :</string>
+    <string name="tv_date">Date :</string>
+    <string name="tv_heure">Horaire :</string>
+    <string name="tv_adress">Adresse :</string>
+    <string name="btn_new">Nouvelle Partie Foot</string>
+    <string name="tv_pk">Partie Foot N° :</string>
+    <string name="aucun_message">Aucun message</string>
+    <string name="message_ajoute">Partie ajoutée</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="ok">OK</string>
+    <string name="pas_permission_reseau">Pas dinternet</string>
+    <string name="batterie_faible">Batterie Faible; téléchargement suspendu</string>
+    <string name="batterie_ok">téléchargement réactivé</string>
+    <string name="search_hint">Rechercher...</string>
+    <string name="chercher">Chercher</string>
+    <string name="navigation_drawer_open">Ouvrir le panneau de navigation</string>
+    <string name="navigation_drawer_close">Fermer le panneau de navigation</string>
+    <string name="action_settings">Options</string>
+    <string name="rb_immediate">Créer immédiatement</string>
+    <string name="rb_programme">Programmer la date de Création</string>
+    <string name="txt_date">Format(JJ/MMM/AAAA HH:MM:SS)</string>
+    <string name="invalid_date">La date n\'est pas valide</string>
+    <string name="message_programme">Création de la partie programmée</string>
+    <string name="notif_type_msg_sent">Confirmaton d\'envoi de message</string>
+    <string name="notif_type_dl_img">Téléchargement d\'image en arrière-plan</string>
+    <string name="message_programme_ok">Partie programmée créée</string>
+    <string name="di_img_encours">Téléchargement d\'image en arrière-plan en cours...</string>
+    <string name="di_img_fini">Téléchargement d\'image en arrière-plan terminé</string>
+    <string name="position">Adresse du stade</string>
+    <string name="my_position">Ma position</string>
+    <string name="text_position">Cette adresse :</string>
+    <string name="text_position2">Adresse...</string>
+    <string name="map_position">Choisir une position sur la carte</string>
+    <string name="open_map">Ouvrir la carte</string>
+    <string name="pas_permission_gps">Cette application peut utiliser votre GPS pour automatiquement sélectionner
+        l\'adresse du message. Vous pouvez aussi refuser la permission et saisir une adresse manuellement.
+    </string>
+    <string name="pas_de_position">Impossible de trouver la position. Vérifiez le GPS est allumé et authorisé, que
+        l\'adresse saisie existe, ou ouvrez la carte et choisir une position manuellement.
+    </string>
+    <string name="valider">Valider</string>
+    <string name="map_help_toast">Appuyez sur la carte pour sélectionner un emplacement, puis appuyer sur Valider
+    </string>
+</resources>
